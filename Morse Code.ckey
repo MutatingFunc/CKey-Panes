@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>columns</key>
+			<integer>11</integer>
+			<key>hidden</key>
+			<false/>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>␣</string>
+						<key>signal</key>
+						<string>| </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>A</string>
+						<key>signal</key>
+						<string>._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>B</string>
+						<key>signal</key>
+						<string>_... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>C</string>
+						<key>signal</key>
+						<string>_._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>D</string>
+						<key>signal</key>
+						<string>_.. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>E</string>
+						<key>signal</key>
+						<string>. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>F</string>
+						<key>signal</key>
+						<string>.._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>G</string>
+						<key>signal</key>
+						<string>__. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>H</string>
+						<key>signal</key>
+						<string>.... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>I</string>
+						<key>signal</key>
+						<string>.. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>J</string>
+						<key>signal</key>
+						<string>.___ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>K</string>
+						<key>signal</key>
+						<string>_._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>L</string>
+						<key>signal</key>
+						<string>._.. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>M</string>
+						<key>signal</key>
+						<string>__ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>N</string>
+						<key>signal</key>
+						<string>_. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>O</string>
+						<key>signal</key>
+						<string>___ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>P</string>
+						<key>signal</key>
+						<string>.__. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>Q</string>
+						<key>signal</key>
+						<string>__._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>R</string>
+						<key>signal</key>
+						<string>._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>S</string>
+						<key>signal</key>
+						<string>... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>T</string>
+						<key>signal</key>
+						<string>_ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>U</string>
+						<key>signal</key>
+						<string>.._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>V</string>
+						<key>signal</key>
+						<string>..._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>W</string>
+						<key>signal</key>
+						<string>.__ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>X</string>
+						<key>signal</key>
+						<string>_.._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>Y</string>
+						<key>signal</key>
+						<string>_.__ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>Z</string>
+						<key>signal</key>
+						<string>__.. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>0</string>
+						<key>signal</key>
+						<string>_____ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>1</string>
+						<key>signal</key>
+						<string>.____ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>2</string>
+						<key>signal</key>
+						<string>..___ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>3</string>
+						<key>signal</key>
+						<string>...__ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>4</string>
+						<key>signal</key>
+						<string>...._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>5</string>
+						<key>signal</key>
+						<string>..... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>6</string>
+						<key>signal</key>
+						<string>_.... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>7</string>
+						<key>signal</key>
+						<string>__... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>8</string>
+						<key>signal</key>
+						<string>___.. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>9</string>
+						<key>signal</key>
+						<string>____. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>.</string>
+						<key>signal</key>
+						<string>._._._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>,</string>
+						<key>signal</key>
+						<string>__..__ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>?</string>
+						<key>signal</key>
+						<string>..__.. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>'</string>
+						<key>signal</key>
+						<string>.____. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>!</string>
+						<key>signal</key>
+						<string>_._.__ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>/</string>
+						<key>signal</key>
+						<string>_.._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>(</string>
+						<key>signal</key>
+						<string>_.__. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>)</string>
+						<key>signal</key>
+						<string>_.__._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>&amp;</string>
+						<key>signal</key>
+						<string>._... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>:</string>
+						<key>signal</key>
+						<string>___... </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>;</string>
+						<key>signal</key>
+						<string>_._._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>=</string>
+						<key>signal</key>
+						<string>_..._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>+</string>
+						<key>signal</key>
+						<string>._._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>-</string>
+						<key>signal</key>
+						<string>_...._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>_</string>
+						<key>signal</key>
+						<string>..__._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>"</string>
+						<key>signal</key>
+						<string>._.._. </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>$</string>
+						<key>signal</key>
+						<string>..._.._ </string>
+					</dict>
+				</dict>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>keycap</key>
+						<string>@</string>
+						<key>signal</key>
+						<string>.__._. </string>
+					</dict>
+				</dict>
+			</array>
+			<key>rows</key>
+			<integer>4</integer>
+			<key>title</key>
+			<string>Morse Code</string>
+		</dict>
+	</array>
+</dict>
+</plist>
